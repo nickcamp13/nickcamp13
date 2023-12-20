@@ -1,6 +1,6 @@
 # Hello! 🦭
 
-![Me!](./assets/alpaca.jpg)
+![Me!](./assets/views.jpg)
 
 <!--
 **nickcamp13/nickcamp13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
