@@ -1,11 +1,11 @@
 # Hello! 🦭
 
-<table>
+<table border="0" style="border:none; border-collapse: collapse;">
 <tr>
-  <td>
+  <td style="border: none;">
     <img src="./assets/views.jpg" width="100%">
   </td>
-  <td>
+  <td style="border: none;">
 
 ## About Me 🙇🏻‍♂️
 
