@@ -1,11 +1,4 @@
-# Hello! 🦭
-
-<table border="0" style="border:none; border-collapse: collapse;">
-<tr>
-  <td style="border: none;">
-    <img src="./assets/views.jpg" width="100%">
-  </td>
-  <td style="border: none;">
+<img src="https://38.media.tumblr.com/06f0d5cf2e7491acc2fbe2e39031c1b1/tumblr_n9cnttf1FZ1ty0fy0o4_500.gif" width="25%"/>
 
 ## About Me 🙇🏻‍♂️
 
@@ -18,11 +11,3 @@ My drive to learn how to program has even pushed me to take classes on UDEMY's o
 In pursuit of a career in software engineering, I have gained experience working on **real world applications**! During my time at UCSD, I have served as a **software developer** for the **Computer Science and Engineering Society** (_CSES_). As a software developer with CSES, I have experiencing working on **full stack applications** using libraries and frameworks such as **React.js, Angular, Django, and Express.js**. I am also familiar with databases such as **SQL and MongoDB**. I am proud to have contributed on projects such as **The Tritones Website**, and **The Schoolhouse Ghana Project**.
 
 If you have any questions regarding my experiences feel free to reach out to me either through email or on LinkedIn!
-
-Email: nicholascampos013@gmail.com
-
-LinkedIn: @nicholas-campos
-
-  </td>
-</tr>
-</table>
