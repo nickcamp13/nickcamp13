@@ -3,8 +3,11 @@
 <div style="display: flex;">
 
 <img src="https://abrudz.github.io/logos/CPlusPlus.svg" width="7%" style="margin-right: 20px;" />
+
 <img src="https://abrudz.github.io/logos/Java.svg" width="7%" style="margin-right: 20px;" />
+
 <img src="https://abrudz.github.io/logos/Python.svg" width="7%" style="margin-right: 20px;" />
+
 <img src="https://abrudz.github.io/logos/JS.svg" width="7.5%" />
 
 </div>
