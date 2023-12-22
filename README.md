@@ -1,9 +1,16 @@
 ## 💻 PROGRAMMING LANGUAGES
 
+## 💻 PROGRAMMING LANGUAGES
+
+<div style="display: flex; justify-content: space-between;">
+
 <img src="https://abrudz.github.io/logos/CPlusPlus.svg" width="7%" />
 <img src="https://abrudz.github.io/logos/Java.svg" width="7%" />
-<img src="https://abrudz.github.io/logos/Python.svg" />
+<img src="https://abrudz.github.io/logos/Python.svg" width="7%" />
 <img src="https://abrudz.github.io/logos/JS.svg" width="7.5%" />
+
+</div>
+
 
 ## LIBRARIES & FRAMEWORKS
 
