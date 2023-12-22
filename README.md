@@ -1,13 +1,20 @@
+## 💻 PROGRAMMING LANGUAGES
+
+<img src="https://abrudz.github.io/logos/CPlusPlus.svg" width="7%" />
+<img src="https://abrudz.github.io/logos/Java.svg" width="7%" />
+<img src="https://abrudz.github.io/logos/Python.svg" />
+<img src="https://abrudz.github.io/logos/JS.svg" width="7.5%" />
+
+## LIBRARIES & FRAMEWORKS
+
+## 🙇🏻‍♂️ ABOUT ME
+
+I am a dedicated software engineer in my senior year at UC San Diego, where I study Computer Science and Cognitive Science, set to graduate in June 2024. My ambition is to excel as a full-stack web developer, a goal I actively pursue through both academic and practical experiences.
+
+Key Experiences:
+- **CodePath Courses**: Completed the Intermediate Technical Interview Preparation (TIP 102) and Intermediate Web Development (WEB 102) courses. In TIP 102, I honed my skills in technical interview strategies, while in WEB 102, I deepened my knowledge in React.js.
+- **Software Developer at UCSD's CSE Society**: Engaged in developing dynamic and efficient websites, with a proficiency in HTML, CSS, JavaScript, and React.js. I'm known for my ability to transform complex design concepts into functional web applications, ensuring quality with meticulous testing, and consistently enhancing my skills to stay aligned with the latest web development trends.
+
+I'm enthusiastic about leveraging my growing expertise in web technologies and my collaborative skills to contribute to impactful projects in the tech industry.
+
 <img src="https://38.media.tumblr.com/06f0d5cf2e7491acc2fbe2e39031c1b1/tumblr_n9cnttf1FZ1ty0fy0o4_500.gif" width="25%"/>
-
-## About Me 🙇🏻‍♂️
-
-I am a **senior at UC San Diego** studying **Cognitive Science**. I specialize in **Machine Learning** and am currently taking a class on **Large Language Models**. On top of CogSci, I am also a **Computer Science** minor!
-
-I started learning programming at my community college where I earned my Associate of Science in CS. I have experience programming in **C/C++, Python, Java, and JavaScript**.
-
-My drive to learn how to program has even pushed me to take classes on UDEMY's online learning platform. This is where I learned that basics of **Web Development**: HTML, CSS, and JavaScript!
-
-In pursuit of a career in software engineering, I have gained experience working on **real world applications**! During my time at UCSD, I have served as a **software developer** for the **Computer Science and Engineering Society** (_CSES_). As a software developer with CSES, I have experiencing working on **full stack applications** using libraries and frameworks such as **React.js, Angular, Django, and Express.js**. I am also familiar with databases such as **SQL and MongoDB**. I am proud to have contributed on projects such as **The Tritones Website**, and **The Schoolhouse Ghana Project**.
-
-If you have any questions regarding my experiences feel free to reach out to me either through email or on LinkedIn!
