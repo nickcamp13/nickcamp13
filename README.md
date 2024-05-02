@@ -22,6 +22,8 @@ I'm enthusiastic about leveraging my growing expertise in web technologies and m
 
 <img src="https://abrudz.github.io/logos/JS.svg" width="10.5%" />
 
+<img src="./assets/node.svg" width="10%" style="margin-right: 30px;" />
+
 </div>
 
 ## 📚 LIBRARIES & FRAMEWORKS
@@ -33,7 +35,5 @@ I'm enthusiastic about leveraging my growing expertise in web technologies and m
 <img src="./assets/angular.svg" width="10%" style="margin-right: 30px;" />
 
 <img src="./assets/django.svg" width="10%" style="margin-right: 30px;" />
-
-<img src="./assets/node.svg" width="10%" style="margin-right: 30px;" />
 
 </div>
